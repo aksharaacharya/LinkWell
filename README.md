@@ -1,1 +1,2 @@
 # LinkWell
+Social isolation is a real issue in the older generations. Indeed, not only can it be detrimental to mental health and social well-being, but it also affects physical health. The chance of contracting cardiovascular disease and dementia is higher, along with the risk of stroke or the slow decline of immunity. Simply put, social isolation can be the starting point for other health concerns, and it is important to address it. LinkWell aims to help predict the risk of isolation, and then provide personalized recommendations to reduce the risk.
