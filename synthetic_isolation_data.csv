@@ -1,0 +1,501 @@
+age,lives_alone,marital_status,weekly_family_visits,weekly_friend_interactions,community_events_attended,volunteer_hours,religious_participation_hours,exercise_days,uses_video_calls,transportation_access,mobility_limitations,depression_symptoms,isolation_risk_score
+79,No,Widowed,1,3,0,0.2,0.1,2,Weekly,Public transit,Mild,Low,61.2
+74,Yes,Widowed,2,1,1,0.5,0.6,2,Monthly,Can drive,Mild,Low,69.1
+80,No,Married,2,1,0,2.3,0.9,1,Monthly,Public transit,Moderate,Low,63.1
+87,Yes,Single,0,0,0,0.5,0.1,0,Monthly,Public transit,Moderate,Moderate,87.8
+73,Yes,Widowed,1,0,1,0.4,0.2,0,Monthly,Family,Severe,Moderate,80.4
+73,No,Married,2,1,1,1.2,0.3,2,Monthly,Can drive,Mild,Low,50.1
+88,No,Married,1,0,0,0.6,0.3,1,Daily,Family,Severe,Low,73.1
+81,No,Married,1,0,0,0.2,0.7,1,Weekly,Can drive,Severe,Low,54.2
+71,No,Married,1,2,1,3.2,1.1,5,Weekly,Can drive,None,Moderate,43.6
+79,No,Married,0,0,0,0.0,0.2,1,Weekly,None,Severe,Moderate,77.7
+71,Yes,Married,1,0,0,2.4,1.9,2,Monthly,Can drive,None,Low,64.1
+71,No,Married,1,0,0,1.2,0.8,0,Never,Family,Moderate,Low,74.3
+77,No,Married,1,2,0,1.4,1.0,0,Monthly,Public transit,Mild,Low,73.1
+60,No,Divorced,0,0,4,0.2,0.2,2,Weekly,None,Moderate,Moderate,67.3
+61,No,Married,0,0,1,3.8,1.4,2,Weekly,None,Moderate,Low,57.6
+71,Yes,Widowed,1,2,1,0.6,0.7,2,Monthly,Can drive,Moderate,Moderate,69.9
+67,Yes,Widowed,1,0,1,2.3,1.0,1,Weekly,Family,Mild,Moderate,67.5
+78,Yes,Single,1,3,0,0.7,0.6,2,Monthly,Can drive,None,High,67.4
+68,No,Married,4,0,2,2.8,0.6,2,Never,Public transit,None,Low,50.5
+64,No,Married,4,2,2,1.7,4.4,2,Weekly,Can drive,None,Low,38.2
+87,No,Single,0,1,1,3.6,0.6,0,Weekly,Public transit,None,Moderate,63.2
+73,Yes,Divorced,2,1,0,1.0,0.1,1,Never,Public transit,Mild,High,76.6
+76,No,Divorced,1,0,2,0.8,1.2,2,Monthly,Public transit,None,Moderate,68.4
+64,No,Married,0,1,0,0.7,0.3,0,Weekly,None,Severe,Low,67.3
+71,No,Married,2,2,0,1.7,2.3,5,Monthly,None,Mild,Moderate,53.8
+76,No,Widowed,1,1,1,1.6,0.5,1,Never,Family,Moderate,Low,71.8
+66,Yes,Single,2,2,1,3.3,1.4,1,Daily,Can drive,None,High,47.7
+78,No,Widowed,1,0,2,2.6,2.1,1,Monthly,Can drive,Moderate,Moderate,67.3
+70,Yes,Widowed,2,0,0,0.1,0.4,1,Monthly,Can drive,Severe,Low,61.4
+73,No,Married,2,2,2,2.9,0.2,1,Never,Can drive,Mild,Moderate,54.4
+70,Yes,Divorced,0,0,3,2.3,1.0,3,Weekly,Can drive,Mild,Moderate,68.6
+90,No,Married,0,2,0,0.5,0.2,3,Monthly,Public transit,Severe,Low,63.7
+75,No,Married,2,2,1,0.9,1.3,2,Monthly,Public transit,None,Low,50.7
+67,Yes,Widowed,1,0,3,0.7,0.7,2,Never,Can drive,None,Moderate,76.1
+82,Yes,Widowed,6,0,0,1.4,0.1,0,Weekly,Public transit,Mild,Low,60.1
+65,No,Married,1,1,2,3.7,0.8,3,Monthly,Can drive,None,Low,52.0
+77,Yes,Married,0,1,1,1.2,0.2,1,Monthly,Family,Mild,High,80.0
+60,No,Widowed,1,1,1,0.1,0.6,2,Monthly,Public transit,None,Low,65.7
+64,No,Married,2,1,0,1.2,2.3,2,Monthly,Public transit,None,Low,47.9
+77,No,Widowed,4,3,1,1.2,1.1,3,Weekly,Can drive,None,Low,41.5
+81,No,Married,0,0,0,1.1,0.6,1,Daily,Family,Severe,Low,76.4
+76,Yes,Widowed,2,0,0,2.1,0.7,1,Monthly,Family,Mild,Moderate,71.8
+74,Yes,Widowed,2,0,1,0.6,0.2,1,Weekly,Can drive,Severe,Low,84.0
+73,Yes,Married,0,1,1,2.7,0.8,2,Weekly,Family,Mild,High,75.3
+63,Yes,Married,0,0,0,3.4,0.1,3,Daily,Public transit,None,High,68.8
+69,No,Married,2,0,3,1.3,2.0,1,Monthly,None,None,Low,57.2
+71,No,Married,2,2,2,0.7,0.3,3,Weekly,Can drive,Mild,Low,44.3
+83,No,Single,2,3,1,2.0,1.6,3,Never,Can drive,None,Low,52.1
+78,No,Married,2,1,4,2.0,0.6,1,Weekly,Family,Mild,Low,43.5
+61,Yes,Divorced,2,1,1,0.9,0.1,3,Never,Can drive,None,Low,64.8
+78,No,Married,1,4,1,12.0,0.4,2,Monthly,Family,Mild,Low,39.8
+72,No,Widowed,1,0,2,5.1,1.4,4,Monthly,Can drive,Mild,Moderate,50.8
+70,Yes,Divorced,4,2,2,0.8,4.2,1,Monthly,Can drive,None,Low,55.4
+80,Yes,Widowed,1,1,1,0.5,0.7,2,Monthly,Can drive,None,Low,56.1
+83,Yes,Widowed,5,1,0,0.5,2.3,1,Weekly,None,Moderate,High,78.1
+82,Yes,Widowed,2,5,4,2.9,0.0,4,Monthly,Can drive,Mild,Moderate,43.5
+68,No,Married,3,2,3,4.7,0.8,2,Daily,Can drive,None,Low,37.6
+73,Yes,Single,3,0,1,1.6,0.2,2,Never,Family,Severe,Moderate,76.8
+78,Yes,Divorced,2,1,0,0.6,1.3,4,Monthly,Can drive,None,Low,66.3
+83,No,Single,2,2,1,1.9,0.3,1,Monthly,Family,Moderate,Moderate,63.2
+71,No,Married,1,3,0,0.3,0.5,2,Never,Can drive,Severe,Low,55.5
+74,Yes,Widowed,0,1,1,5.3,0.6,5,Monthly,Family,None,High,67.4
+66,No,Single,3,1,0,0.9,3.0,2,Weekly,Can drive,None,High,55.4
+65,No,Married,0,3,0,0.5,1.2,3,Weekly,Can drive,None,High,55.4
+82,No,Married,2,2,0,0.5,6.0,2,Weekly,None,Mild,High,61.9
+86,No,Widowed,2,0,1,2.1,0.8,2,Monthly,None,None,Low,62.2
+74,Yes,Widowed,2,0,0,2.4,1.8,0,Never,None,Mild,Low,73.1
+83,Yes,Divorced,1,3,1,2.6,2.7,1,Never,Public transit,None,Moderate,62.4
+78,No,Married,2,3,2,0.6,1.7,2,Monthly,Family,Mild,Moderate,51.2
+70,Yes,Divorced,0,0,0,0.4,0.2,0,Monthly,Family,Severe,High,85.4
+78,No,Married,3,1,1,0.8,0.1,1,Never,Family,Moderate,Low,76.4
+87,No,Married,2,1,1,0.3,1.8,3,Never,Family,Moderate,High,75.3
+75,No,Married,5,2,1,1.2,0.5,3,Monthly,Can drive,None,Moderate,51.7
+88,Yes,Divorced,0,1,1,2.6,0.0,0,Never,None,Moderate,High,92.4
+60,Yes,Widowed,2,0,0,0.4,0.9,3,Weekly,Can drive,None,High,69.7
+82,Yes,Widowed,0,0,0,1.6,2.2,2,Monthly,Can drive,Mild,Moderate,73.7
+76,No,Married,2,2,2,6.0,0.2,5,Monthly,Can drive,None,Low,42.7
+73,Yes,Divorced,1,1,2,2.6,1.0,0,Weekly,Family,Moderate,Low,63.8
+76,No,Married,0,2,2,6.2,0.0,1,Monthly,Can drive,Mild,Low,41.7
+60,Yes,Divorced,0,1,1,2.1,2.7,4,Weekly,Family,None,High,61.3
+73,No,Widowed,1,0,2,2.6,1.3,4,Monthly,None,Mild,Moderate,66.2
+78,No,Married,3,1,2,1.1,0.2,3,Never,Family,Mild,Moderate,57.4
+87,No,Widowed,1,1,0,0.2,0.7,2,Monthly,Public transit,Severe,Low,69.8
+71,No,Married,1,1,0,1.1,0.3,0,Monthly,None,Moderate,Low,72.4
+69,Yes,Widowed,4,1,1,3.2,0.2,2,Daily,Public transit,Mild,Low,60.7
+71,No,Widowed,3,1,2,1.3,0.5,2,Weekly,Can drive,None,Low,50.8
+82,No,Married,1,3,2,2.8,1.6,1,Monthly,Can drive,Mild,Low,52.6
+78,Yes,Divorced,2,0,1,1.3,0.2,3,Never,Public transit,Mild,Moderate,79.9
+71,No,Married,0,0,1,5.5,0.0,1,Monthly,Family,None,Low,56.3
+79,Yes,Widowed,0,1,0,3.5,0.4,2,Monthly,Can drive,None,Moderate,72.1
+76,No,Single,2,2,0,0.2,1.9,4,Monthly,Family,Moderate,Low,50.1
+83,Yes,Widowed,3,1,1,1.7,2.3,1,Never,Family,None,Moderate,66.8
+69,No,Married,2,5,0,1.0,0.5,5,Weekly,Family,None,Low,40.4
+72,Yes,Single,2,2,0,0.7,0.4,5,Never,Can drive,None,Moderate,73.4
+72,Yes,Widowed,1,1,0,0.3,0.3,2,Daily,Can drive,None,Moderate,65.4
+63,No,Married,1,3,3,2.6,0.4,2,Never,Can drive,None,High,50.9
+77,No,Married,0,1,0,2.0,0.2,0,Daily,Can drive,Severe,Low,63.0
+77,Yes,Divorced,1,1,1,1.3,0.6,1,Daily,Family,Moderate,Moderate,71.6
+75,Yes,Widowed,0,0,0,0.1,0.8,0,Monthly,Family,Severe,High,88.3
+73,Yes,Widowed,1,0,1,1.3,0.2,1,Weekly,Public transit,Mild,Moderate,76.2
+64,Yes,Divorced,1,0,0,2.4,0.3,5,Monthly,Public transit,None,High,61.0
+72,Yes,Divorced,0,3,1,1.2,0.9,1,Monthly,Public transit,Mild,Moderate,57.6
+72,No,Married,0,3,0,2.3,1.7,3,Monthly,Can drive,Mild,Moderate,50.7
+69,No,Married,3,0,0,0.9,0.1,0,Monthly,Public transit,Mild,Low,64.2
+74,No,Married,3,2,0,1.7,4.3,3,Monthly,Can drive,None,Low,50.9
+78,Yes,Widowed,1,0,1,1.0,0.4,3,Monthly,Public transit,Mild,Low,65.3
+90,Yes,Married,1,3,1,4.1,0.1,1,Monthly,Public transit,Mild,Low,56.8
+76,Yes,Widowed,5,1,1,0.5,0.1,1,Never,Can drive,None,Moderate,68.3
+77,Yes,Divorced,2,1,1,0.0,0.0,2,Monthly,Family,Moderate,Moderate,71.0
+74,Yes,Divorced,2,1,2,3.9,1.8,2,Never,Can drive,Mild,Low,58.6
+60,No,Married,3,1,1,2.3,1.1,3,Never,Family,None,Moderate,56.1
+75,Yes,Divorced,1,1,0,0.3,1.8,1,Never,Public transit,Mild,Moderate,85.0
+75,No,Married,3,0,2,3.7,0.7,2,Never,Family,Mild,Low,62.6
+95,No,Divorced,1,1,0,1.2,1.0,3,Never,Family,Severe,Low,71.9
+73,No,Married,3,3,2,4.3,0.5,3,Weekly,Family,Moderate,Moderate,56.7
+77,Yes,Married,1,1,0,0.7,0.1,0,Never,Public transit,Severe,Moderate,86.1
+75,Yes,Divorced,4,0,0,5.0,2.0,2,Weekly,Can drive,Moderate,Low,62.1
+66,No,Married,2,3,1,1.9,0.9,3,Monthly,Can drive,None,Low,42.4
+84,No,Married,3,0,1,2.0,0.7,1,Weekly,Public transit,Moderate,Low,53.7
+81,No,Widowed,4,1,0,3.2,2.4,1,Monthly,Public transit,Mild,High,62.5
+81,Yes,Widowed,0,3,0,0.9,0.8,1,Monthly,Public transit,Mild,High,78.2
+68,Yes,Widowed,2,3,1,0.9,0.4,2,Weekly,None,Mild,Low,65.4
+86,Yes,Widowed,0,0,1,2.9,1.3,0,Never,Family,None,Moderate,78.7
+64,Yes,Widowed,1,0,0,0.2,0.6,1,Weekly,Family,Moderate,High,89.6
+80,No,Married,3,1,1,0.8,0.2,3,Never,Public transit,Mild,Low,64.7
+93,Yes,Married,2,2,0,0.8,1.2,2,Daily,None,Moderate,High,67.1
+67,No,Married,1,0,0,5.9,0.1,3,Monthly,Family,Mild,High,65.4
+70,Yes,Single,1,1,0,1.7,0.6,3,Monthly,Family,Moderate,Low,76.4
+76,Yes,Widowed,1,2,0,1.4,0.2,0,Weekly,Can drive,Mild,High,76.4
+71,Yes,Widowed,2,0,2,0.8,1.3,2,Monthly,Family,Mild,Low,72.8
+63,Yes,Widowed,0,0,2,6.8,0.3,3,Weekly,Public transit,None,High,64.4
+76,Yes,Single,1,0,2,1.3,0.9,2,Monthly,Family,Mild,Moderate,65.0
+67,No,Married,1,2,0,1.0,3.4,2,Weekly,Can drive,None,Low,42.2
+79,Yes,Widowed,3,2,1,4.7,2.1,0,Never,Family,Moderate,Moderate,69.0
+68,Yes,Widowed,4,2,0,0.4,0.5,4,Weekly,Family,None,Moderate,54.4
+87,Yes,Widowed,1,0,0,2.6,0.4,1,Monthly,Family,Moderate,Low,76.3
+69,No,Married,2,5,2,2.1,3.1,4,Monthly,None,None,Low,45.4
+72,Yes,Divorced,2,2,1,2.9,0.8,2,Never,None,None,Low,75.8
+82,Yes,Single,1,1,0,1.5,0.1,2,Monthly,None,Moderate,Low,67.5
+65,Yes,Widowed,0,2,1,2.9,0.0,3,Daily,None,None,Moderate,61.7
+77,Yes,Widowed,2,1,0,8.3,0.9,3,Never,Family,None,Moderate,71.2
+85,No,Single,2,3,3,9.9,0.5,2,Monthly,Family,None,Low,43.3
+62,Yes,Widowed,0,0,0,0.3,0.5,1,Never,Public transit,Severe,Low,87.0
+76,No,Married,3,2,1,1.9,0.3,3,Monthly,Family,Moderate,Low,61.1
+77,Yes,Widowed,0,1,2,0.1,2.8,1,Monthly,Public transit,Mild,Low,62.7
+81,Yes,Widowed,2,0,0,2.6,0.2,1,Daily,Family,Mild,Moderate,64.1
+65,Yes,Widowed,1,2,1,3.7,0.1,1,Weekly,Can drive,None,High,61.0
+64,No,Widowed,2,0,1,0.1,0.7,4,Weekly,Family,Mild,Low,48.0
+79,No,Single,1,1,2,1.7,1.6,1,Monthly,None,Mild,High,71.1
+77,No,Single,1,1,2,3.9,2.2,3,Never,Can drive,None,Moderate,54.0
+77,Yes,Widowed,3,2,1,2.1,0.8,2,Monthly,Family,None,Moderate,59.9
+78,No,Married,2,1,0,0.5,4.7,2,Monthly,Public transit,None,Low,47.2
+70,Yes,Single,0,2,1,0.4,0.6,2,Daily,Public transit,Mild,High,68.4
+77,No,Divorced,1,1,0,1.1,0.4,0,Weekly,Can drive,Moderate,Low,58.8
+77,No,Married,3,1,2,1.4,1.4,3,Never,Public transit,None,Low,55.3
+69,No,Single,0,4,3,1.5,0.2,4,Monthly,Can drive,None,Moderate,53.1
+90,Yes,Divorced,0,2,2,0.3,2.0,3,Never,Can drive,None,Moderate,64.3
+79,Yes,Widowed,1,0,1,0.6,0.8,0,Daily,None,Severe,High,81.1
+65,Yes,Widowed,0,1,0,5.3,0.9,4,Daily,Public transit,None,Low,59.1
+80,No,Married,2,1,0,0.3,0.2,2,Weekly,Family,Moderate,Moderate,62.3
+67,No,Married,1,1,2,1.4,1.1,4,Monthly,Public transit,Mild,Low,61.3
+81,No,Married,3,0,2,3.0,3.8,2,Monthly,Public transit,Mild,Low,51.0
+84,Yes,Divorced,1,3,0,1.4,1.1,2,Monthly,Can drive,Mild,Low,67.8
+68,No,Married,4,3,3,4.8,2.1,5,Monthly,Can drive,None,Low,35.8
+83,No,Married,0,2,1,0.4,1.5,3,Monthly,Public transit,Moderate,High,61.4
+78,No,Married,3,0,0,1.4,0.1,1,Never,Family,Moderate,Low,64.9
+82,No,Widowed,3,0,1,2.7,0.5,1,Never,Public transit,Moderate,Moderate,73.8
+90,Yes,Single,0,0,0,4.8,0.9,1,Weekly,Can drive,Moderate,Moderate,73.1
+73,No,Married,2,2,1,2.3,0.1,2,Weekly,Can drive,None,Low,55.9
+69,No,Married,1,2,0,0.3,1.0,0,Monthly,None,Severe,Low,68.8
+68,Yes,Widowed,1,1,1,0.6,0.1,1,Weekly,Public transit,Mild,Low,68.4
+68,Yes,Widowed,2,3,0,0.3,0.4,3,Monthly,Family,None,Low,67.0
+74,No,Married,0,0,0,2.6,1.0,0,Weekly,Family,Severe,Low,64.7
+78,Yes,Widowed,1,1,1,2.8,0.5,2,Weekly,None,Mild,Moderate,80.2
+77,No,Married,3,2,1,0.5,1.0,1,Weekly,Public transit,Mild,Moderate,48.9
+82,No,Married,2,1,1,0.6,3.1,1,Weekly,Public transit,Moderate,Low,57.5
+75,No,Widowed,2,1,2,1.3,1.4,0,Never,None,Moderate,Low,76.0
+87,Yes,Widowed,0,2,0,2.2,0.4,1,Never,Family,Moderate,Moderate,87.5
+73,Yes,Single,1,3,1,2.4,1.9,3,Monthly,Public transit,None,Moderate,61.4
+95,No,Married,0,1,1,1.8,0.6,3,Never,Family,Moderate,Low,70.1
+80,Yes,Widowed,2,1,0,0.7,0.2,0,Weekly,None,Severe,Low,76.8
+68,Yes,Widowed,1,0,1,0.5,0.7,2,Monthly,Public transit,None,High,72.9
+66,No,Married,1,2,2,2.3,0.6,3,Never,Can drive,None,Moderate,51.7
+79,Yes,Widowed,0,0,0,1.3,0.3,3,Monthly,None,Mild,Low,71.1
+73,No,Married,3,3,1,0.3,0.5,3,Daily,None,Mild,Low,47.7
+81,No,Single,0,1,0,4.4,0.3,2,Never,Family,Moderate,Low,71.1
+79,No,Married,5,2,0,0.4,0.1,1,Monthly,Can drive,Severe,Moderate,60.2
+74,Yes,Widowed,1,2,1,1.0,1.4,3,Monthly,Can drive,None,Moderate,64.5
+68,No,Married,3,4,0,1.6,2.1,0,Never,Can drive,None,Low,57.6
+63,Yes,Single,3,3,0,1.5,0.6,2,Monthly,Public transit,None,Moderate,61.2
+71,No,Widowed,1,2,0,1.0,3.3,3,Weekly,Family,Moderate,Low,68.5
+82,Yes,Widowed,3,0,0,0.9,1.5,2,Monthly,None,Moderate,Low,79.0
+77,No,Married,2,3,2,2.4,1.8,3,Weekly,Can drive,None,Low,37.7
+65,Yes,Widowed,1,1,0,1.5,1.5,2,Monthly,Can drive,Mild,Moderate,69.0
+76,No,Married,2,1,0,1.8,0.1,1,Never,Public transit,Moderate,Low,63.9
+78,No,Divorced,1,0,3,1.9,1.8,2,Daily,Can drive,Moderate,Low,50.1
+68,No,Married,1,0,0,1.9,0.3,2,Monthly,Public transit,Moderate,Low,55.4
+76,No,Married,2,1,1,3.9,4.5,2,Monthly,Family,None,Low,51.9
+75,No,Married,2,1,1,0.6,3.8,2,Weekly,Can drive,Moderate,Moderate,38.0
+66,Yes,Widowed,3,1,2,0.8,1.4,3,Monthly,Family,None,Low,58.7
+78,Yes,Widowed,0,1,1,2.2,1.0,0,Weekly,Family,Moderate,Low,63.4
+79,No,Married,0,1,0,0.8,1.4,1,Never,None,Moderate,Moderate,74.8
+84,No,Divorced,0,0,1,1.1,0.4,1,Never,None,Moderate,Moderate,79.9
+83,Yes,Widowed,0,1,0,0.8,0.8,2,Never,Family,Moderate,High,96.1
+64,Yes,Widowed,4,3,0,7.8,0.3,1,Weekly,Public transit,None,Moderate,51.5
+67,Yes,Widowed,1,0,2,0.6,3.3,2,Monthly,Public transit,None,Low,67.5
+79,Yes,Widowed,0,0,1,0.2,0.6,2,Weekly,Family,Severe,High,86.5
+79,Yes,Widowed,0,0,0,0.5,0.8,0,Daily,None,Severe,High,75.1
+79,No,Married,2,2,3,1.8,1.1,5,Monthly,Family,None,Low,41.0
+95,No,Married,5,3,3,0.5,0.5,6,Monthly,Family,Mild,High,55.7
+80,Yes,Divorced,1,0,2,1.4,0.1,1,Monthly,Public transit,None,Low,60.7
+84,Yes,Single,2,0,0,1.0,0.2,0,Monthly,Public transit,Moderate,High,88.2
+83,No,Married,0,0,0,0.4,0.3,3,Monthly,Public transit,Severe,High,77.7
+80,No,Married,2,1,2,1.5,1.8,5,Monthly,Can drive,Mild,Moderate,50.5
+72,No,Widowed,5,4,1,0.8,1.3,1,Daily,Public transit,Mild,High,54.4
+81,Yes,Widowed,1,0,0,0.2,0.4,0,Daily,Family,Severe,Moderate,78.8
+69,No,Married,1,1,0,1.2,1.7,1,Daily,Public transit,Mild,Low,49.6
+73,No,Married,2,0,1,0.6,0.8,6,Weekly,Family,Mild,Low,49.0
+71,Yes,Widowed,0,2,0,0.3,1.3,1,Monthly,Family,Mild,Low,72.9
+76,Yes,Widowed,0,1,1,0.1,0.8,2,Weekly,Can drive,Mild,Moderate,68.9
+94,No,Married,3,0,0,2.2,1.1,4,Weekly,Family,Mild,Moderate,56.5
+60,No,Married,0,1,1,1.1,0.4,0,Monthly,Can drive,Mild,Low,56.8
+80,No,Married,0,0,3,2.9,0.4,2,Daily,Public transit,Moderate,Low,56.7
+62,Yes,Widowed,0,3,2,0.7,0.0,1,Monthly,Can drive,Moderate,Moderate,71.7
+71,No,Married,2,1,0,2.2,0.3,4,Weekly,Can drive,Mild,Moderate,46.0
+84,No,Married,0,0,2,0.7,1.6,1,Weekly,Family,Moderate,Low,55.3
+76,No,Divorced,2,2,2,2.0,0.4,3,Daily,Public transit,None,Low,42.8
+66,No,Married,1,3,0,0.2,1.5,3,Monthly,Can drive,None,Low,46.3
+69,Yes,Widowed,1,1,1,1.0,0.3,1,Weekly,Public transit,None,Moderate,66.4
+80,No,Married,2,3,1,0.7,2.0,0,Monthly,Public transit,Mild,Low,58.2
+69,No,Married,2,2,1,3.8,1.4,2,Monthly,Can drive,Mild,Moderate,50.0
+77,No,Married,1,0,1,0.8,0.1,0,Weekly,Public transit,Severe,Low,66.9
+75,Yes,Widowed,1,1,0,3.0,1.9,3,Monthly,Public transit,None,Low,65.0
+70,Yes,Divorced,1,1,0,3.4,2.0,3,Weekly,Family,Mild,High,63.2
+92,Yes,Divorced,1,1,0,0.3,0.1,0,Never,Family,Severe,Low,80.5
+80,No,Married,1,4,2,2.0,0.7,3,Monthly,Family,Mild,Low,53.8
+60,Yes,Widowed,1,1,0,0.4,0.2,2,Weekly,Can drive,Mild,Low,66.2
+76,No,Married,1,1,3,1.7,1.4,3,Monthly,Family,Moderate,Low,56.7
+70,No,Married,1,3,0,2.8,0.9,2,Monthly,Family,Mild,Low,61.7
+82,Yes,Divorced,2,2,0,2.0,0.8,1,Daily,None,None,Low,63.6
+69,No,Married,2,2,0,1.3,0.9,2,Weekly,Can drive,None,Low,38.4
+74,No,Married,1,2,0,4.7,2.0,2,Weekly,Public transit,Moderate,Low,54.9
+79,No,Married,3,2,0,1.8,5.1,2,Monthly,Family,Mild,Moderate,48.4
+82,No,Married,1,2,0,0.6,3.3,3,Monthly,Family,None,Moderate,64.0
+65,Yes,Married,4,1,0,2.2,1.5,0,Monthly,Public transit,Mild,Moderate,67.5
+72,Yes,Widowed,1,2,3,3.4,0.4,3,Monthly,Public transit,None,Moderate,59.8
+71,Yes,Widowed,1,0,0,0.3,0.2,0,Weekly,Public transit,Moderate,Low,78.3
+70,Yes,Divorced,0,1,1,1.2,0.3,1,Weekly,Can drive,None,Moderate,65.5
+89,No,Divorced,2,0,1,0.1,0.2,1,Monthly,Family,Severe,Low,61.0
+78,No,Married,0,2,1,4.6,0.5,1,Never,Family,Mild,Low,65.7
+65,No,Married,3,5,1,1.9,1.9,3,Monthly,Can drive,None,Low,38.1
+82,No,Married,0,0,0,0.9,0.1,2,Never,Public transit,None,Moderate,79.3
+92,Yes,Widowed,1,0,1,2.1,0.3,1,Never,Public transit,Moderate,Moderate,82.5
+83,No,Married,2,0,3,0.7,0.0,1,Daily,None,Severe,High,74.5
+63,Yes,Widowed,1,1,1,1.1,0.6,0,Weekly,Family,Severe,Low,73.6
+71,Yes,Widowed,2,1,1,1.9,0.4,1,Weekly,None,Mild,Moderate,77.2
+85,Yes,Widowed,2,1,3,0.5,1.3,3,Never,Family,Mild,High,70.5
+69,No,Widowed,1,1,0,1.0,0.0,2,Daily,Can drive,Mild,Low,59.2
+79,Yes,Married,1,2,0,0.4,0.1,1,Monthly,Family,Moderate,Low,60.3
+81,Yes,Single,0,1,2,0.3,0.3,0,Weekly,None,Moderate,Moderate,75.6
+68,Yes,Divorced,3,2,0,0.2,4.6,2,Monthly,None,None,Low,53.6
+75,No,Married,0,2,1,7.6,0.3,2,Daily,Family,Mild,Low,41.0
+60,Yes,Divorced,0,0,2,1.7,0.8,2,Weekly,Family,Mild,High,66.3
+67,Yes,Widowed,2,4,1,2.3,2.0,3,Daily,None,None,Low,56.5
+73,Yes,Divorced,3,3,1,3.2,2.1,1,Never,Can drive,Mild,Low,58.8
+65,Yes,Divorced,5,0,1,0.9,0.7,1,Monthly,Public transit,None,Moderate,65.9
+88,No,Widowed,0,0,1,0.1,0.1,2,Never,Family,Severe,Moderate,80.8
+64,No,Married,3,1,1,3.8,1.0,5,Monthly,Can drive,None,Low,49.8
+71,Yes,Married,0,1,0,0.3,1.6,1,Daily,Family,Mild,High,67.7
+76,No,Widowed,7,2,0,3.2,1.7,2,Never,Can drive,Mild,Low,54.0
+87,Yes,Widowed,1,0,1,0.2,0.0,0,Never,Family,Moderate,Low,78.2
+64,No,Married,2,0,3,0.5,0.1,1,Monthly,Can drive,None,Low,57.8
+84,No,Married,0,0,1,0.7,1.6,1,Never,Public transit,Moderate,Moderate,79.9
+75,Yes,Divorced,1,1,2,2.3,0.1,1,Never,Can drive,Mild,High,75.4
+67,Yes,Single,0,1,0,4.5,0.1,2,Weekly,Can drive,Mild,Low,58.5
+79,Yes,Widowed,2,1,2,1.9,0.7,2,Monthly,Family,Mild,Moderate,59.6
+77,No,Married,1,4,1,1.0,2.2,1,Never,Can drive,Mild,Low,50.1
+70,Yes,Married,1,0,0,2.0,1.8,0,Monthly,Family,Moderate,Moderate,62.1
+76,No,Married,4,4,3,0.3,0.2,4,Monthly,Public transit,None,Low,38.2
+72,No,Single,0,3,1,0.5,0.0,1,Never,Family,Moderate,Low,70.8
+76,No,Married,3,1,1,1.9,0.5,3,Weekly,Public transit,Mild,Moderate,54.6
+80,Yes,Widowed,0,1,0,3.0,1.4,2,Weekly,Family,None,Moderate,77.9
+88,No,Married,2,1,2,1.7,0.2,3,Monthly,Family,None,Low,49.6
+65,Yes,Widowed,1,0,0,1.2,0.5,1,Weekly,Can drive,None,Low,62.3
+92,Yes,Widowed,2,1,0,0.4,0.2,0,Never,Public transit,Severe,Low,88.5
+60,Yes,Divorced,0,1,0,3.2,0.6,1,Daily,Can drive,Mild,Moderate,55.0
+74,No,Married,0,2,2,0.6,2.9,1,Weekly,Family,Moderate,High,52.7
+80,No,Married,1,1,0,0.4,0.1,1,Daily,Family,Moderate,High,69.3
+77,No,Married,1,3,2,1.4,1.3,3,Never,Family,Mild,Low,54.3
+70,No,Single,1,5,1,5.5,1.4,2,Daily,Family,None,Low,39.2
+73,No,Divorced,3,3,1,1.1,0.7,0,Weekly,Family,None,Moderate,49.9
+71,Yes,Widowed,1,1,2,1.0,0.5,2,Weekly,Family,Mild,Moderate,67.4
+70,Yes,Widowed,6,2,2,0.2,1.9,2,Never,Public transit,None,Moderate,58.4
+82,Yes,Widowed,1,0,0,1.1,0.3,4,Weekly,Can drive,Mild,Low,64.6
+78,No,Married,0,1,0,2.2,1.3,3,Daily,Public transit,Mild,Moderate,51.6
+69,No,Single,0,1,0,0.4,2.8,2,Weekly,Family,Mild,Moderate,60.4
+82,Yes,Widowed,1,1,0,1.3,0.6,1,Monthly,Family,Severe,High,93.8
+77,No,Married,4,3,2,0.9,0.2,2,Daily,None,Severe,Moderate,53.9
+82,Yes,Widowed,0,1,0,0.6,0.8,2,Monthly,Family,Moderate,Moderate,77.8
+80,No,Married,1,1,0,2.2,0.1,2,Monthly,Public transit,Mild,Moderate,64.7
+68,No,Married,0,1,2,2.7,2.2,1,Monthly,Public transit,Mild,High,65.0
+71,Yes,Widowed,0,0,1,0.1,3.4,1,Daily,Family,Moderate,Moderate,70.6
+81,No,Married,3,3,1,2.6,1.4,3,Never,Can drive,None,Low,49.5
+80,Yes,Widowed,0,3,2,3.4,2.2,2,Monthly,Can drive,Mild,Low,59.3
+75,No,Married,0,3,1,0.6,0.1,2,Weekly,Public transit,Moderate,Moderate,60.9
+76,No,Married,3,2,1,1.1,0.2,1,Weekly,Public transit,Mild,Low,53.2
+85,No,Married,3,0,1,0.9,0.4,2,Monthly,Public transit,Moderate,Low,60.3
+70,Yes,Married,4,1,1,2.5,0.6,3,Daily,Family,Mild,Low,40.4
+79,No,Widowed,3,1,0,0.6,1.4,2,Daily,Public transit,None,Moderate,70.1
+73,No,Married,4,3,2,2.6,0.4,3,Never,None,Mild,Low,59.6
+73,No,Widowed,4,4,0,1.5,1.2,3,Monthly,Public transit,None,Low,47.4
+84,Yes,Widowed,2,3,2,5.5,1.9,4,Never,Can drive,None,Moderate,58.3
+82,Yes,Widowed,3,1,0,1.2,1.3,3,Monthly,Family,None,Moderate,59.5
+82,No,Single,1,0,1,0.0,0.2,1,Monthly,Can drive,Severe,Low,65.6
+85,No,Widowed,4,3,0,3.0,1.8,3,Weekly,Can drive,Mild,Low,39.0
+75,No,Married,1,0,2,2.5,0.6,4,Weekly,Can drive,Mild,Low,48.3
+80,No,Married,1,2,0,2.1,1.0,2,Never,Public transit,Mild,Moderate,59.4
+73,No,Married,1,1,0,1.8,0.8,0,Never,Can drive,Severe,Moderate,74.8
+78,No,Widowed,2,5,2,0.3,0.8,4,Monthly,Family,None,Low,52.3
+74,No,Married,0,3,0,0.7,0.2,1,Monthly,Can drive,Mild,Moderate,58.4
+76,Yes,Widowed,2,2,0,0.9,0.5,1,Never,None,Moderate,Moderate,85.4
+80,Yes,Widowed,3,0,0,0.6,0.6,2,Weekly,Public transit,Severe,Low,67.3
+68,No,Married,2,1,0,1.8,2.6,4,Daily,Public transit,None,High,55.0
+92,Yes,Divorced,1,2,1,0.1,0.1,0,Never,Can drive,Severe,High,80.4
+67,No,Married,4,1,1,1.3,2.0,2,Daily,Can drive,None,Low,43.4
+65,Yes,Married,0,2,2,5.2,0.6,2,Monthly,Family,None,Low,46.6
+84,Yes,Widowed,1,1,3,0.5,2.8,1,Weekly,Public transit,None,Low,52.2
+81,Yes,Widowed,4,0,0,1.5,0.1,1,Monthly,Can drive,None,Low,58.6
+80,Yes,Widowed,2,2,0,1.4,0.9,2,Never,Family,Moderate,Moderate,78.3
+80,Yes,Widowed,1,1,0,2.5,0.4,1,Daily,Can drive,Mild,Moderate,68.0
+75,No,Married,2,3,0,3.0,0.4,2,Monthly,Public transit,Mild,Moderate,61.0
+68,Yes,Divorced,4,1,0,0.8,1.6,1,Weekly,Family,Mild,Moderate,60.8
+76,Yes,Divorced,0,1,0,0.4,1.3,4,Monthly,Family,Moderate,High,64.0
+70,Yes,Widowed,1,0,1,5.5,1.9,2,Never,Family,None,Moderate,70.4
+83,No,Married,4,2,0,2.5,0.6,0,Never,Public transit,Moderate,Low,67.5
+74,Yes,Widowed,1,2,0,1.6,0.8,1,Monthly,Public transit,None,Low,81.4
+68,No,Married,1,3,1,5.1,0.2,3,Weekly,Public transit,Mild,Low,46.8
+72,No,Married,1,2,0,0.4,1.6,3,Monthly,Public transit,Mild,Low,55.0
+78,No,Single,0,0,0,0.0,2.2,1,Weekly,Family,Severe,Low,68.2
+70,No,Married,1,4,2,2.3,0.6,3,Weekly,Can drive,None,Moderate,43.2
+68,Yes,Single,4,0,1,1.8,2.3,0,Weekly,Can drive,None,Moderate,62.7
+77,No,Widowed,2,1,3,0.4,1.0,3,Monthly,Public transit,None,Low,51.6
+77,No,Married,1,1,0,4.1,0.6,3,Daily,Can drive,None,Moderate,47.9
+71,Yes,Widowed,1,3,2,0.1,0.1,1,Monthly,Can drive,None,Moderate,69.1
+71,Yes,Divorced,1,0,2,0.7,0.9,0,Monthly,Family,Severe,Low,75.0
+77,Yes,Widowed,1,0,4,2.5,0.9,1,Never,Can drive,None,Low,69.0
+63,Yes,Divorced,0,3,0,1.7,0.5,1,Monthly,Family,None,High,70.9
+64,Yes,Widowed,2,1,1,0.2,0.5,2,Never,Family,Mild,Low,78.5
+69,Yes,Widowed,0,2,2,3.9,1.5,1,Weekly,Can drive,None,Low,46.6
+73,Yes,Divorced,1,0,1,0.6,0.3,1,Never,Family,Moderate,Moderate,73.4
+77,No,Married,2,0,1,1.2,0.3,2,Monthly,Can drive,None,Moderate,64.3
+87,Yes,Widowed,2,1,3,0.6,0.6,4,Weekly,Can drive,Mild,Low,54.7
+82,No,Married,2,0,2,3.6,0.9,4,Monthly,Family,None,Low,53.9
+74,No,Single,0,1,0,1.2,0.9,2,Never,Can drive,None,Low,64.5
+75,No,Single,0,0,0,0.2,0.2,0,Never,Family,Severe,High,86.8
+67,Yes,Married,2,2,3,3.3,2.4,1,Weekly,Can drive,None,Low,37.0
+75,Yes,Widowed,1,3,1,1.2,5.3,2,Never,Public transit,Mild,Moderate,67.4
+73,Yes,Single,3,0,0,2.9,0.2,0,Monthly,Can drive,Mild,High,79.6
+78,No,Married,5,5,1,2.1,0.0,3,Monthly,None,None,Low,47.4
+68,No,Widowed,1,0,1,0.6,0.5,2,Weekly,Family,Moderate,High,75.0
+79,Yes,Single,2,3,1,0.1,0.1,4,Monthly,Can drive,None,High,66.5
+87,No,Married,2,1,1,1.4,0.3,1,Weekly,Public transit,Moderate,Moderate,56.8
+74,Yes,Widowed,1,0,0,0.4,0.5,1,Never,Public transit,Severe,Low,89.2
+78,No,Married,1,1,1,3.2,0.7,3,Never,Family,Mild,Low,58.6
+81,Yes,Single,1,1,2,0.3,0.0,0,Never,Family,Severe,Moderate,79.7
+72,Yes,Single,1,1,0,2.1,0.6,2,Never,Public transit,None,High,88.6
+77,Yes,Single,0,1,3,1.3,0.5,1,Never,Can drive,Mild,Low,69.9
+75,Yes,Widowed,2,1,1,0.6,0.6,1,Monthly,Public transit,None,Moderate,67.8
+76,Yes,Divorced,1,0,2,0.5,1.3,1,Monthly,None,Moderate,Low,74.9
+69,Yes,Divorced,0,0,0,0.1,0.6,1,Weekly,Can drive,Severe,Low,73.1
+75,No,Married,2,1,0,7.8,1.1,2,Monthly,None,None,Low,63.7
+79,Yes,Divorced,1,3,0,1.8,3.5,4,Weekly,Can drive,Mild,Moderate,55.8
+87,No,Married,1,1,2,0.4,0.6,1,Never,Public transit,None,Low,72.7
+83,Yes,Widowed,0,1,0,3.4,0.4,3,Never,Public transit,Moderate,Moderate,75.4
+92,No,Married,1,0,2,0.4,0.6,1,Monthly,Family,Moderate,High,69.5
+69,No,Married,3,0,0,0.4,0.0,2,Never,None,Severe,Low,71.5
+82,No,Married,2,1,2,1.0,0.6,1,Never,Public transit,Moderate,Low,62.1
+76,Yes,Widowed,0,1,0,1.5,0.1,1,Monthly,Can drive,None,Moderate,70.4
+93,No,Married,3,1,0,3.1,0.4,4,Weekly,Public transit,Mild,Low,47.7
+69,Yes,Widowed,1,0,0,1.5,0.9,1,Weekly,Family,None,Moderate,78.1
+68,No,Married,2,3,2,1.5,0.2,3,Never,Can drive,None,High,65.2
+70,No,Married,1,0,2,2.4,1.5,3,Weekly,Can drive,None,Low,47.7
+60,Yes,Widowed,3,1,1,0.7,0.2,1,Weekly,Public transit,Moderate,Moderate,68.5
+71,Yes,Divorced,0,1,0,0.8,0.4,2,Weekly,Can drive,Mild,Low,61.6
+69,No,Married,2,1,1,1.8,1.7,4,Weekly,Can drive,None,Low,47.3
+76,Yes,Widowed,2,6,0,5.4,0.7,1,Monthly,Can drive,None,Moderate,58.4
+78,No,Divorced,1,0,2,0.8,0.9,2,Never,None,Moderate,Low,72.9
+90,Yes,Widowed,0,0,1,1.3,0.4,2,Monthly,Family,Severe,Moderate,83.2
+83,No,Married,4,2,3,2.3,0.9,1,Monthly,Family,None,Low,49.3
+70,No,Married,1,0,1,1.3,0.9,0,Weekly,Family,Moderate,Low,59.3
+68,Yes,Divorced,3,1,1,1.8,0.3,3,Weekly,Public transit,None,Low,53.6
+79,No,Married,2,2,0,3.0,1.7,3,Daily,Family,None,Low,36.9
+64,No,Divorced,1,2,0,1.4,0.8,2,Daily,Public transit,None,Low,55.1
+90,Yes,Widowed,1,1,1,2.2,1.5,0,Weekly,None,Moderate,High,90.0
+84,No,Single,3,2,0,3.1,1.2,3,Weekly,Can drive,None,Low,40.2
+71,No,Divorced,0,0,1,0.2,0.2,0,Daily,Can drive,Severe,Moderate,73.8
+61,Yes,Single,1,3,1,4.5,1.1,2,Never,None,Mild,High,72.9
+86,No,Married,1,0,3,1.5,2.0,2,Never,Can drive,Moderate,Moderate,59.7
+74,Yes,Divorced,0,2,1,0.3,0.4,1,Monthly,Public transit,Mild,Moderate,78.7
+85,Yes,Widowed,1,1,0,0.8,0.3,2,Weekly,Family,Mild,Low,65.9
+62,No,Widowed,0,3,0,3.6,1.0,5,Weekly,None,Mild,Moderate,64.1
+70,No,Widowed,1,1,1,1.4,0.6,3,Weekly,Public transit,Mild,Low,60.7
+75,Yes,Divorced,1,0,1,1.4,1.3,3,Never,Can drive,None,Moderate,66.4
+75,Yes,Single,0,5,0,2.3,1.1,1,Never,Can drive,Mild,High,76.5
+71,No,Divorced,2,1,1,1.6,0.1,2,Weekly,None,Moderate,Low,64.1
+80,Yes,Widowed,1,1,1,2.1,1.5,0,Never,None,Mild,High,78.6
+66,No,Widowed,3,1,2,3.6,0.4,1,Monthly,Public transit,None,Low,52.0
+74,Yes,Widowed,1,1,0,0.4,0.3,0,Never,Family,Moderate,Low,65.4
+76,No,Married,0,0,2,1.1,1.5,2,Monthly,Family,None,High,63.5
+79,No,Married,0,1,0,0.8,0.2,4,Weekly,Public transit,None,Low,62.4
+81,No,Married,3,2,2,1.1,0.5,2,Monthly,Can drive,None,Moderate,45.5
+66,No,Married,1,3,1,1.8,0.2,3,Weekly,Can drive,None,High,55.8
+63,No,Married,4,2,1,1.6,2.2,3,Never,Public transit,Mild,Moderate,59.7
+85,No,Married,1,0,2,3.5,0.4,2,Weekly,Can drive,Moderate,Low,49.0
+78,No,Married,5,3,3,2.5,0.2,2,Monthly,Public transit,None,Low,50.6
+69,No,Married,1,1,1,1.1,0.1,2,Weekly,Family,Moderate,Low,56.5
+87,Yes,Single,1,0,0,0.2,0.6,0,Monthly,None,Severe,Low,92.6
+76,Yes,Widowed,2,1,0,0.7,0.2,0,Never,Public transit,Moderate,Moderate,76.2
+84,Yes,Married,1,1,1,4.7,0.4,5,Weekly,Can drive,Mild,Moderate,53.7
+76,Yes,Widowed,1,0,1,4.7,0.7,0,Monthly,Public transit,Mild,Moderate,73.5
+91,No,Married,0,0,1,0.5,0.3,0,Never,Family,Severe,Low,74.3
+89,Yes,Single,2,0,0,0.1,0.0,2,Never,Public transit,Severe,Moderate,88.1
+73,Yes,Divorced,2,1,1,1.0,1.4,1,Daily,Family,None,Moderate,76.2
+83,No,Married,0,1,1,5.9,0.8,3,Weekly,Can drive,None,Moderate,52.0
+80,Yes,Widowed,0,2,1,1.1,0.9,1,Never,Public transit,Mild,Moderate,78.9
+86,Yes,Divorced,1,1,1,0.9,0.5,0,Never,Family,Severe,Moderate,77.2
+67,No,Single,3,4,0,2.0,0.0,2,Weekly,Can drive,None,Moderate,40.7
+80,Yes,Widowed,2,0,0,0.2,1.3,1,Weekly,Public transit,Mild,Moderate,78.1
+83,Yes,Widowed,5,0,2,1.5,5.3,2,Weekly,Family,None,High,52.0
+61,No,Married,0,2,1,3.4,1.3,3,Monthly,Public transit,Mild,Low,68.8
+66,Yes,Single,0,1,2,0.7,2.1,2,Weekly,Family,Mild,High,71.0
+60,No,Married,2,4,1,3.9,2.5,5,Monthly,Can drive,None,Low,40.3
+73,No,Single,3,0,1,1.3,1.2,0,Never,Public transit,Moderate,Low,70.9
+81,No,Widowed,1,0,1,1.3,0.9,1,Monthly,Public transit,Severe,Moderate,77.7
+87,Yes,Widowed,0,0,2,1.7,1.9,2,Daily,Family,Mild,Moderate,60.3
+76,Yes,Widowed,0,3,2,0.4,2.0,3,Monthly,Public transit,Mild,High,62.1
+88,No,Married,1,3,0,1.3,0.2,0,Monthly,None,Mild,Moderate,66.1
+64,No,Married,1,4,0,1.2,2.3,3,Weekly,Can drive,Mild,Moderate,49.0
+61,No,Married,2,2,2,0.9,0.7,4,Weekly,Family,Mild,High,51.2
+75,No,Married,1,6,1,2.1,2.7,1,Weekly,Public transit,Mild,Low,38.1
+78,Yes,Divorced,1,0,0,3.8,0.8,2,Weekly,Family,Moderate,Moderate,66.6
+75,No,Married,1,2,0,4.1,0.2,0,Never,Family,Mild,Low,69.0
+60,No,Married,2,1,0,3.2,2.1,2,Daily,Public transit,Moderate,Low,55.5
+74,Yes,Single,4,1,0,0.6,0.3,4,Weekly,None,Mild,High,71.3
+65,Yes,Divorced,3,2,0,4.0,0.6,3,Daily,Can drive,None,Low,51.9
+80,Yes,Single,0,0,2,3.0,1.9,1,Weekly,Family,Moderate,Moderate,61.1
+78,Yes,Single,2,1,0,0.4,0.5,0,Weekly,None,Moderate,Moderate,72.7
+67,No,Married,2,4,0,2.9,0.7,5,Never,Can drive,None,Low,50.6
+71,No,Married,1,2,2,1.8,0.6,2,Monthly,None,Moderate,High,64.4
+67,No,Divorced,0,1,0,1.0,0.4,0,Daily,Family,Moderate,Low,64.3
+74,Yes,Widowed,2,1,2,1.7,1.7,3,Never,Can drive,None,Moderate,58.7
+83,No,Married,1,0,0,1.1,0.2,1,Never,None,Severe,Moderate,74.3
+67,No,Divorced,0,0,1,1.7,1.0,1,Weekly,Can drive,None,Moderate,63.8
+79,No,Married,1,0,2,4.6,1.8,2,Weekly,None,None,Low,57.0
+71,No,Married,4,3,3,0.5,1.6,1,Monthly,Family,None,Low,40.5
+69,Yes,Widowed,2,1,2,0.7,0.2,1,Daily,Public transit,Moderate,Low,56.3
+74,Yes,Widowed,0,3,3,2.3,1.4,2,Weekly,Family,Mild,Low,45.3
+67,Yes,Widowed,0,2,2,5.8,0.4,2,Weekly,Family,None,High,72.8
+71,No,Married,2,1,1,4.1,0.2,4,Weekly,Family,Mild,Low,49.4
+65,No,Divorced,2,1,0,1.9,0.0,4,Monthly,Family,Mild,High,65.0
+91,No,Married,4,3,2,1.8,0.9,3,Never,Public transit,None,Moderate,51.6
+75,No,Married,2,2,0,0.9,0.1,0,Never,Family,Moderate,Moderate,61.8
+69,Yes,Divorced,0,1,1,1.0,0.2,2,Weekly,Can drive,Mild,Low,66.1
+77,Yes,Single,0,2,0,0.1,0.7,1,Monthly,Can drive,Mild,Moderate,81.1
+74,Yes,Divorced,0,0,0,2.0,0.8,1,Weekly,Family,Severe,Low,69.3
+73,No,Divorced,2,0,3,1.6,0.6,3,Weekly,Can drive,Mild,High,69.3
+80,Yes,Widowed,0,1,0,0.2,0.0,0,Monthly,Family,Severe,Low,80.4
+81,Yes,Widowed,2,1,0,1.3,0.4,3,Weekly,Can drive,Moderate,Low,72.4
+71,No,Married,1,1,1,0.8,2.4,1,Monthly,None,Mild,Low,63.6
+70,Yes,Widowed,1,1,0,3.2,0.6,3,Never,Can drive,None,Low,69.1
+73,No,Married,3,2,1,0.5,2.0,0,Weekly,Family,Moderate,Low,61.5
+60,No,Married,2,4,2,3.8,1.0,5,Never,Public transit,None,Low,51.3
+63,Yes,Widowed,4,0,1,1.1,1.5,1,Monthly,Can drive,None,Low,61.9
+86,Yes,Widowed,1,1,2,1.9,1.0,1,Monthly,Public transit,None,Low,55.5
+88,No,Married,3,1,2,2.4,1.9,1,Never,None,Moderate,Low,55.9
+73,No,Married,2,2,1,1.0,4.9,2,Weekly,Family,Mild,Moderate,50.1
+80,No,Widowed,3,1,3,2.4,0.4,1,Never,Public transit,Moderate,Low,72.2
+77,No,Married,0,4,0,0.1,0.7,2,Never,Public transit,Moderate,Moderate,70.9
+95,Yes,Divorced,0,0,1,4.8,2.2,2,Never,Can drive,None,Moderate,65.3
+84,Yes,Widowed,0,2,0,2.0,0.6,0,Monthly,Public transit,Moderate,Moderate,70.5
+74,No,Widowed,3,2,1,1.9,0.0,2,Monthly,Can drive,None,High,57.7
+67,No,Widowed,1,1,0,3.1,0.5,3,Weekly,Public transit,Moderate,Low,63.6
+62,Yes,Divorced,0,1,2,3.0,0.9,2,Daily,Family,Mild,High,60.7
+77,No,Married,1,0,0,1.7,3.4,3,Daily,Family,Mild,Moderate,48.0
+69,Yes,Widowed,1,2,0,1.3,0.7,2,Monthly,Can drive,Mild,High,73.4
+64,Yes,Widowed,2,1,1,0.6,0.3,1,Monthly,Can drive,None,Low,71.2
+70,No,Married,3,3,1,1.8,1.2,1,Weekly,None,Mild,Low,55.9
+66,No,Divorced,5,2,1,0.3,3.1,2,Daily,Family,Mild,Moderate,48.4
+88,Yes,Divorced,2,1,1,1.7,0.2,2,Daily,Can drive,Moderate,Low,59.7
+82,No,Widowed,3,1,1,3.3,0.5,5,Never,Public transit,Mild,Moderate,67.9
+75,No,Divorced,4,3,2,0.2,0.4,2,Weekly,Public transit,Mild,Moderate,53.3
+87,No,Divorced,1,2,1,2.1,0.1,0,Never,Family,Severe,Moderate,73.7
+76,Yes,Widowed,3,1,0,0.8,0.8,1,Never,Family,None,Low,74.0
+68,Yes,Divorced,1,1,1,10.3,0.7,1,Never,Public transit,None,Moderate,66.7
+87,Yes,Widowed,0,0,1,1.1,0.0,1,Monthly,Family,Moderate,High,77.8
+79,Yes,Widowed,0,1,0,2.7,0.2,0,Monthly,None,Moderate,High,95.9
+67,Yes,Widowed,0,0,3,0.6,0.9,4,Never,Can drive,None,Low,56.1
+73,No,Divorced,4,2,2,1.5,2.0,2,Weekly,Public transit,None,Low,53.2
+68,No,Married,5,1,2,1.2,2.5,5,Monthly,Can drive,None,Low,41.3
+64,Yes,Divorced,1,0,2,0.2,1.6,3,Weekly,Can drive,None,Low,51.0
