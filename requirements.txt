@@ -6,3 +6,4 @@ joblib
 pgeocode
 google-generativeai
 python-dotenv
+requests
